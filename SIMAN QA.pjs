@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{CF1DBCFA-3593-4B27-BB0D-D9B115C1A8C8}">
+	<children>
+		<child name="SIMAN QA" key="{DB2C342D-4A58-46A9-B015-AFBCE109502F}" path="SIMAN QA\SIMAN QA.mds" />
+	</children>
+	<testItems key="{D6EB6D7E-0318-4BFD-8B1D-20A94BB8E2E3}">
+		<children>
+			<testItem key="{DB2C342D-4A58-46A9-B015-AFBCE109502F}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{626E4D53-AADF-491E-B4EF-C3D47DD28B78}" />
+	<analysis key="{C76577B7-A299-41A2-9343-7C9414E87C6C}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
